@@ -4,6 +4,13 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/3D Images/*
+Assets/Foto Sequencia/*
+Assets/Fotos sobrepostas/*
+Assets/Video SlowMo/*
+Assets/Videos diff cameras/*
+Assets/Vídeos normais/*
+Assets/Fotos/*
 
 # Visual Studio cache directory
 .vs/
